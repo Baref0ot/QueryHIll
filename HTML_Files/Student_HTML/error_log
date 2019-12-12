@@ -1,0 +1,32 @@
+[30-Nov-2019 03:35:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[30-Nov-2019 03:35:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method AdminStudentManip::getStudentUserID() in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php on line 71
+[30-Nov-2019 04:35:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[30-Nov-2019 04:35:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method AdminStudentManip::getStudentUserID() in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php on line 71
+[30-Nov-2019 17:41:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[30-Nov-2019 17:41:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method AdminStudentManip::getStudentUserID() in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentQuiz.php:63
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentQuiz.php on line 63
+[01-Dec-2019 21:36:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[01-Dec-2019 21:36:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method AdminStudentManip::getStudentUserID() in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php:72
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentHome.php on line 72
+[01-Dec-2019 22:45:35 America/Chicago] PHP Warning:  Division by zero in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/quizCheck.php on line 21
+[01-Dec-2019 22:45:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[01-Dec-2019 22:45:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[01-Dec-2019 22:45:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setGrade() on null in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/quizCheck.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/quizCheck.php on line 59
+[01-Dec-2019 22:45:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[01-Dec-2019 22:45:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method AdminStudentManip::getStudentUserID() in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentQuiz.php:94
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Student_HTML/studentQuiz.php on line 94

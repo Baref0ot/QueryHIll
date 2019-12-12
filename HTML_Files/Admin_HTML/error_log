@@ -1,0 +1,67 @@
+[27-Nov-2019 20:28:30 America/Chicago] PHP Warning:  include_once(../classes/Admin.class.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/includes/AutoClassLoader.inc.php on line 10
+[27-Nov-2019 20:28:30 America/Chicago] PHP Warning:  include_once(): Failed opening '../classes/Admin.class.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/includes/AutoClassLoader.inc.php on line 10
+[27-Nov-2019 20:28:30 America/Chicago] PHP Fatal error:  Class 'Admin' not found in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 3
+[27-Nov-2019 20:31:56 America/Chicago] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/baref0ot/queryhill.com/classes/DatabaseConnect.class.php on line 55
+[27-Nov-2019 20:33:39 America/Chicago] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'baref0ot_65'@'gator4207.hostgator.com' to database 'php2_project' in /home3/baref0ot/queryhill.com/classes/DatabaseConnect.class.php on line 55
+[28-Nov-2019 06:26:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getuserName() on null in /home3/baref0ot/queryhill.com/includes/AdminTeacherManip.inc.php:94
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php(209): AdminTeacherManip->deleteTeacher()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/includes/AdminTeacherManip.inc.php on line 94
+[28-Nov-2019 06:39:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getStudentUserID() on null in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php:98
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php(126): AdminStudentManip->deleteStudent()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 98
+[28-Nov-2019 06:44:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getStudentUserID() on null in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php:98
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php(126): AdminStudentManip->deleteStudent()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 98
+[28-Nov-2019 07:24:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 102
+[28-Nov-2019 07:26:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 102
+[28-Nov-2019 07:27:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 102
+[28-Nov-2019 07:32:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 102
+[28-Nov-2019 07:39:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setuserName() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:200
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 200
+[28-Nov-2019 07:50:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 100
+[30-Nov-2019 01:03:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[30-Nov-2019 01:03:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getStudentUserID() on null in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php:98
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php(126): AdminStudentManip->deleteStudent()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 98
+[02-Dec-2019 03:36:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setuserName() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:200
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 200
+[02-Dec-2019 03:36:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setuserName() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:200
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 200
+[02-Dec-2019 03:38:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setuserName() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:200
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 200
+[03-Dec-2019 18:53:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/baref0ot/queryhill.com/includes/AdminStudentManip.inc.php on line 48
+[03-Dec-2019 18:53:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setStudentUserID() on null in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php:100
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Admin_HTML/adminmainpage.php on line 100

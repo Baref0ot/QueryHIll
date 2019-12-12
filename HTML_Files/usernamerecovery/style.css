@@ -1,0 +1,144 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px; 
+  background: #f1f1f1;
+}
+form {
+width:100%;
+  border: 3px solid #f1f1f1;
+   background-color: white;
+  padding-left: 20px;
+  padding: 20px;
+  
+}
+input[type=text]{
+  width: 95%;
+  padding: 12px 20px;
+  
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  flex-direction: column;
+
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #0C9BEC;
+  color:white;
+  
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav input[type=text] {
+  float: ;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 18px;
+  font-size: 17px;
+}
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.form {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+   border: 3px solid #f1f1f1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+width:100%;
+  padding:20px;
+  text-align: center;
+  background: #0C9BEC;
+  
+}
+/* Set a style for all buttons */
+.button {
+  background-color: #ffcc00; 
+  border: none;
+  
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+.container{
+ 
+ width: 50%;
+ 
+ padding: 10px;
+ margin-top:50px;
+ background-color: silver;
+    }
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}

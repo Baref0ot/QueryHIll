@@ -1,0 +1,31 @@
+[01-Dec-2019 22:11:17 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:11:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:15:22 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:15:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:15:27 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:15:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:16:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php:72
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/resetpassword/forgot_passwordNew.php(13): LoginRecoveryCredentials->requestPasswordReset()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 72
+[01-Dec-2019 22:18:31 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:18:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:20:27 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:20:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:47:19 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[01-Dec-2019 22:47:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 48
+[02-Dec-2019 01:30:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 80
+[02-Dec-2019 01:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getEmail() on null in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php:76
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/resetpassword/forgot_passwordNew.php(13): LoginRecoveryCredentials->requestPasswordReset()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 76
+[02-Dec-2019 02:15:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 95
+[02-Dec-2019 02:18:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 135
+[02-Dec-2019 02:21:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 135
+[02-Dec-2019 02:21:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 135
+[02-Dec-2019 02:23:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 135
+[02-Dec-2019 02:23:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 135
+[02-Dec-2019 03:02:31 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 62
+[02-Dec-2019 03:03:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 123

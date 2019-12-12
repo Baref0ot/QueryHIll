@@ -1,0 +1,4 @@
+[02-Dec-2019 02:44:23 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 243
+[02-Dec-2019 02:44:23 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 243
+[02-Dec-2019 03:07:38 America/Chicago] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 229
+[02-Dec-2019 03:07:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/classes/LoginRecoveryCredentials.php on line 229

@@ -1,0 +1,201 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    background-image: url(../../Pictures/Industrial_Grey_LoginBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+nav {
+  margin-left: 1090px; 
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: #0C9BEC;
+    color: white;
+        
+}
+.header h1 {
+    font-size: 50px;
+     margin-top: 0;
+    font-size: 50px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 20px; /*added by Matthew Wright 11/30/2019 */
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2 ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: black !important;
+    color: #f2f2f2 !important;
+}
+row:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+label {
+   margin:auto
+}
+input {
+    position: relative;
+   
+}
+
+h2 {
+    color:white;
+}
+
+
+div href {
+    color: black;
+}
+/*nav w3-bar w3-black {
+  color:darkred;
+}
+#link {
+ background-color: black;
+}*/
+/* prachi's table css for studentinfo after click*/
+
+.table {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 100%;
+        background-color: #ddd;
+   
+    
+    }
+.table, th,td {
+    border: 1px solid black;
+    padding: 4px;
+        background-color: #ddd;
+
+    
+}
+.table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ddd;
+    color: black;
+    
+}
+    
+
+
+
+
+
+
+/* ends here*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0C9BEC;
+}
+
+li {
+  float: left;
+   
+    
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 55px;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #0C9BEC;
+}
+p {
+    color: black;
+    font-size: 20px;
+}
+/*table tr th {
+    margin-top: 330px;
+    font-size: 20px;
+}*/
+form {
+    width: 100%;
+    border: 3px solid #f1f1f1;
+    background-color: white;
+    padding-left: 20px;
+    padding: 20px;
+}
+form button {
+    background-color: #ffcc00;
+    
+}
+
+
+.topnav li {
+    background-color: #ffcc00;
+    border: none;
+    /*padding: 15px 32px;*/
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.footer {
+    /*position: absolute; */
+    height: 50px;
+    line-height: 50px;
+    background-color: #0C9BEC;
+    /* bottom: 0; */ /*added by Matthew Wright 11/30/2019 */
+    /* padding-right: 7%; */ /*added by Matthew Wright 11/30/2019 */
+    /* padding-bottom: 70px; */ /*added by Matthew Wright 11/30/2019 */
+    /* padding-top: 20px; */ /*added by Matthew Wright 11/30/2019 */
+    /* margin-bottom: 15px; */ /*added by Matthew Wright 11/30/2019 */
+    text-align: center;
+    /* width: 97.6%;*/ /*added by Matthew Wright 11/30/2019 */
+}
+
+.footerSearchHandler {
+  position: relative;
+    height: 50px;
+    background-color: #0C9BEC;
+    bottom: 0;
+    padding-right: 7%;
+    padding-bottom: 90px;
+    padding-top: 2px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    text-align: center; 
+    width:99;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+
+@media screen and (max-width: 800px) {
+    .leftcolumn,
+    .rightcolumn {
+        width: 100%;
+        padding: 0;
+    }
+}

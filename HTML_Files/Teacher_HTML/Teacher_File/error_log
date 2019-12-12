@@ -1,0 +1,198 @@
+[25-Nov-2019 02:09:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 02:37:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 02:37:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 02:37:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 05:13:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 05:14:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 11:04:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:14) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 24
+[25-Nov-2019 11:26:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:11) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:27:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:11) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:29:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:11) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:29:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:11) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:30:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:11) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:31:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 19
+[25-Nov-2019 11:41:50 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home3/baref0ot/queryhill.com/classes/TeacherControls.php:135
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacher.php(6): TeacherControls::checkSession()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/TeacherControls.php on line 135
+[25-Nov-2019 11:42:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'baref0ot_php2_project.questions' doesn't exist in /home3/baref0ot/queryhill.com/classes/Quiz.php:128
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/classes/Quiz.php(128): PDOStatement->execute()
+#1 /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/viewquiz.php(39): Quiz->viewQuiz()
+#2 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/Quiz.php on line 128
+[29-Nov-2019 18:40:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:10) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 30
+[29-Nov-2019 18:42:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:10) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 30
+[29-Nov-2019 18:48:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:10) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 30
+[29-Nov-2019 21:11:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:10) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 30
+[29-Nov-2019 23:21:17 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:17 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:17 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:21:37 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:37 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:21:58 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:58 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:21:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:22:54 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:22:54 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:22:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:39:34 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:39:34 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:39:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:42:23 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:42:23 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:42:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:42:33 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:42:33 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:42:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:44:09 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:44:09 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:44:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:45:39 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:45:39 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:45:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:45:48 America/Chicago] PHP Warning:  include_once(lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:45:48 America/Chicago] PHP Warning:  include_once(): Failed opening 'lib/Teacher.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 4
+[29-Nov-2019 23:45:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 5
+[29-Nov-2019 23:48:23 America/Chicago] PHP Warning:  require_once(/home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/lib/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 9
+[29-Nov-2019 23:48:23 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/lib/Teacher.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 9
+[29-Nov-2019 23:51:09 America/Chicago] PHP Warning:  require_once(/home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/Teacher.php): failed to open stream: No such file or directory in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 9
+[29-Nov-2019 23:51:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/Teacher.php' (include_path='.:/opt/php71/lib/php') in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 9
+[29-Nov-2019 23:52:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[29-Nov-2019 23:53:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[29-Nov-2019 23:53:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[29-Nov-2019 23:58:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[29-Nov-2019 23:59:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:00:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:00:27 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:01:06 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:09:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method TeacherControls::init() in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:10:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method TeacherControls::init() in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:19:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method TeacherControls::init() in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:19:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method TeacherControls::init() in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:25:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:25:50 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[30-Nov-2019 00:27:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Teacher' not found in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/indextable.php on line 11
+[01-Dec-2019 18:58:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 18:59:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 18:59:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:00:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:02:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:06:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:06:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:06:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:06:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:06:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:08:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:09:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:11:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 10
+[01-Dec-2019 19:18:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 30
+[01-Dec-2019 19:18:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:18:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:26:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:31:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 121
+[01-Dec-2019 19:31:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:34:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:34:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:36:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:36:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:42:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:44:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[01-Dec-2019 19:48:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php:18) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 28
+[02-Dec-2019 01:50:58 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mm' in 'where clause' in /home3/baref0ot/queryhill.com/classes/Quiz.php:287
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/classes/Quiz.php(287): PDOStatement->execute()
+#1 /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/SearchHandler.php(33): Quiz->ChapterValidation(NULL)
+#2 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/Quiz.php on line 287
+[02-Dec-2019 04:29:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/choosechapter.php on line 19
+[02-Dec-2019 08:31:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 9
+[02-Dec-2019 08:31:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 9
+[02-Dec-2019 08:32:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 9
+[02-Dec-2019 08:48:44 America/Chicago] PHP Recoverable fatal error:  Object of class Quiz could not be converted to string in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/viewquiz.php on line 86
+[02-Dec-2019 08:50:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting end of file in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/viewquiz.php on line 14
+[02-Dec-2019 08:53:43 America/Chicago] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home3/baref0ot/queryhill.com/classes/TeacherControls.php:135
+Stack trace:
+#0 /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacher.php(6): TeacherControls::checkSession()
+#1 {main}
+  thrown in /home3/baref0ot/queryhill.com/classes/TeacherControls.php on line 135
+[03-Dec-2019 16:00:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 9
+[03-Dec-2019 16:00:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/teacherTable.php:9) in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/inc/header.php on line 9
+[03-Dec-2019 16:33:22 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/baref0ot/queryhill.com/HTML_Files/Teacher_HTML/Teacher_File/SearchHandler.php on line 83
